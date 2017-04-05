@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/DanielEgan/botstartersimple/issues"
   },
-  "homepage": "https://github.com/DanielEgan/botstartersimple#readme"
+  "homepage": "https://github.com/DanielEgan/botstartersimple#readme",
+  "dependencies": {
+    "botbuilder": "^3.7.0",
+    "restify": "^4.3.0"
+  }
 }
